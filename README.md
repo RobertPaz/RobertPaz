@@ -9,7 +9,8 @@ Im a Software developer how focused his career on automated testing and quality 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [pazperezroberto@gmail.com](mailto:pazperezroberto@gmail.com)
 *   🧠  I'm learning how to apply AI in quality assurance process and tools
-*   🤝  I'm open to collaborating on Interesting projects that want to include quality assurance specially automated testing### Skills 
+*   🤝  I'm open to collaborating on Interesting projects that want to include quality assurance specially automated testing
+  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
