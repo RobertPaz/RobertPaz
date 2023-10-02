@@ -27,7 +27,9 @@ Im a Software developer how focused his career on automated testing and quality 
 </p>
 
 ### Badges
-
+<a href="https://webdriver.io/">
+    <img alt="WebdriverIO" src="https://img.shields.io/badge/tested%20with-webdriver.io-%23ea5906">
+</a>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/RobertPaz"><img src="https://github-readme-stats.vercel.app/api?username=RobertPaz&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="RobertPaz's GitHub stats" />
